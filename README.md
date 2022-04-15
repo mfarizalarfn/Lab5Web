@@ -86,7 +86,7 @@ Pilihan menggunakan checkBox dengan perhitungan otomatis<br>
 **Pertanyaan dan Tugas**<br>
 1. Buat script untuk melakukan validasi pada isian form.<br>
 
-**Jawab :**
+**Jawab :**<br>
 Berikut script<br>
 
 ```
@@ -143,7 +143,7 @@ Berikut script<br>
 </html>
 ```
 <br>
-Berikut hasilnya :<br>
+Berikut hasilnya, gambar dibawah memberi info bahwa textbox tersebut tidak boleh kosong dan menunjukan posisi textbox yang dimaksud dengan method .focus dari perintah javascript. <br>
 <br>
 
 ![gambar 12](image/pict12.PNG) <br>
