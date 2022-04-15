@@ -148,3 +148,4 @@ Berikut hasilnya, gambar dibawah memberi info bahwa textbox tersebut tidak boleh
 
 ![gambar 12](image/pict12.PNG) <br>
 <br>
+Namun salah satu kelemahan validasi di sisi client masih bisa diakali dengan memodifiasi script melalui inspect element pada browser sehingga menyebabkan validasi tidak berjalan sebagaimana mestinya. oleh karena itu dibutuhkan juga validasi pada server side yang akan kita pelajari pada artikel selanjutnya.<br>
